@@ -148,7 +148,3 @@ pip install -r requirements.txt
 Made with ❤️ by **Dev**
 
 Feel free to connect on [GitHub](https://github.com/Devb1234)
-
----
-
-Let me know if you'd like me to generate a `requirements.txt` too!
