@@ -1,4 +1,4 @@
- **📅 Medical Appointment No-Show Prediction**
+# 📅 Medical Appointment No-Show Prediction
 
 This project aims to predict whether a patient will **miss or attend their medical appointment** using historical data. It includes:
 
